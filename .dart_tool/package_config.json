@@ -2,6 +2,18 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "_flutterfire_internals",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/_flutterfire_internals-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/args-2.4.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "async",
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.11.0",
       "packageUri": "lib/",
@@ -32,8 +44,26 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/cupertino_icons-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "desktop_webview_auth",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/desktop_webview_auth-0.0.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "email_validator",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/email_validator-2.1.17",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -48,6 +78,24 @@
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "firebase_auth",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth-4.6.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_platform_interface-6.15.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_auth_web-5.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "firebase_core",
@@ -68,6 +116,42 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "firebase_dynamic_links",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_dynamic_links-5.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_dynamic_links_platform_interface",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_dynamic_links_platform_interface-0.2.6+2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_ui_auth",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_ui_auth-1.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_ui_localizations",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_ui_localizations-1.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_ui_oauth",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_ui_oauth-1.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_ui_shared",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/firebase_ui_shared-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/Users/Mark%20Angelo/tools/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -80,10 +164,22 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_localizations",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/tools/flutter/packages/flutter_localizations",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "flutter_riverpod",
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_riverpod-2.3.6",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_svg",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_svg-2.0.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "flutter_test",
@@ -102,6 +198,24 @@
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/go_router-7.1.1",
       "packageUri": "lib/",
       "languageVersion": "2.18"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "js",
@@ -144,6 +258,18 @@
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "path_parsing",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/path_parsing-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/petitparser-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "plugin_platform_interface",
@@ -206,10 +332,40 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/typed_data-1.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_codec-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/vector_graphics_compiler-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/xml-6.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
     },
     {
       "name": "faker_app_flutter_firebase",
@@ -218,7 +374,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-06-02T04:45:57.323582Z",
+  "generated": "2023-06-02T04:58:22.340936Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }

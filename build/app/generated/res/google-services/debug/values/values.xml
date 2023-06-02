@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">429433041024-4c7lp3qkhcfs8head1jmk0fq1o6f4cf4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">429433041024</string>
+    <string name="google_api_key" translatable="false">AIzaSyChaVCpiifkysukjIGGRGdVv5m6CqyzHlA</string>
+    <string name="google_app_id" translatable="false">1:429433041024:android:cd54d9484658fe73c7f665</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChaVCpiifkysukjIGGRGdVv5m6CqyzHlA</string>
+    <string name="google_storage_bucket" translatable="false">fir-basics-flutter-d43fc.appspot.com</string>
+    <string name="project_id" translatable="false">fir-basics-flutter-d43fc</string>
+</resources>
