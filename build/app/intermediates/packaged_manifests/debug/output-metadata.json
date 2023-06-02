@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.faker_app_flutter_firebase",
+  "applicationId": "com.example.firebase_basics_firebase",
   "variantName": "debug",
   "elements": [
     {

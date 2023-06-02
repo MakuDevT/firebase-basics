@@ -45,7 +45,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCIDQkElICbMZO_hQgZoSyFw4B7PKNE40U',
-    appId: '1:429433041024:web:244704cf136f22f9c7f665',
+    appId: '1:429433041024:web:98dddf37dcb43ff4c7f665',
     messagingSenderId: '429433041024',
     projectId: 'fir-basics-flutter-d43fc',
     authDomain: 'fir-basics-flutter-d43fc.firebaseapp.com',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyChaVCpiifkysukjIGGRGdVv5m6CqyzHlA',
-    appId: '1:429433041024:android:cd54d9484658fe73c7f665',
+    appId: '1:429433041024:android:1a56b054821c061dc7f665',
     messagingSenderId: '429433041024',
     projectId: 'fir-basics-flutter-d43fc',
     storageBucket: 'fir-basics-flutter-d43fc.appspot.com',
@@ -62,21 +62,21 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyCnX773u89t3WXFODNXbklC3ZRil0vzfsE',
-    appId: '1:429433041024:ios:1e0605d06aec5af2c7f665',
+    appId: '1:429433041024:ios:1a0f717fde9850a8c7f665',
     messagingSenderId: '429433041024',
     projectId: 'fir-basics-flutter-d43fc',
     storageBucket: 'fir-basics-flutter-d43fc.appspot.com',
-    iosClientId: '429433041024-bugoibo9s9fgbh8au4mi09bk9e28nkj0.apps.googleusercontent.com',
-    iosBundleId: 'com.example.fakerAppFlutterFirebase',
+    iosClientId: '429433041024-hn9qi1gp38qf7n5vtl78avdfvor5bjl6.apps.googleusercontent.com',
+    iosBundleId: 'com.example.firebaseBasicsFlutterFirebase',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyCnX773u89t3WXFODNXbklC3ZRil0vzfsE',
-    appId: '1:429433041024:ios:1e0605d06aec5af2c7f665',
+    appId: '1:429433041024:ios:1a0f717fde9850a8c7f665',
     messagingSenderId: '429433041024',
     projectId: 'fir-basics-flutter-d43fc',
     storageBucket: 'fir-basics-flutter-d43fc.appspot.com',
-    iosClientId: '429433041024-bugoibo9s9fgbh8au4mi09bk9e28nkj0.apps.googleusercontent.com',
-    iosBundleId: 'com.example.fakerAppFlutterFirebase',
+    iosClientId: '429433041024-hn9qi1gp38qf7n5vtl78avdfvor5bjl6.apps.googleusercontent.com',
+    iosBundleId: 'com.example.firebaseBasicsFlutterFirebase',
   );
 }

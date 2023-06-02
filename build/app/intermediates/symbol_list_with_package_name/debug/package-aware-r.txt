@@ -1,4 +1,4 @@
-com.example.faker_app_flutter_firebase
+com.example.firebase_basics_firebase
 attr activityAction
 attr activityName
 attr alpha
