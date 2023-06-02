@@ -368,13 +368,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "faker_app_flutter_firebase",
+      "name": "firebase_basics",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-06-02T04:58:22.340936Z",
+  "generated": "2023-06-02T06:56:07.995155Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }
