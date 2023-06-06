@@ -13,6 +13,10 @@ class FirestoreRepository {
         .add({'uid': uid, 'title': title, 'company': company});
     debugPrint(docRef.id);
   }
+
+  Query<Map<String, dynamic>> jobsQuery() {
+    return _firestore.collection('jobs');
+  }
 }
 
 final firestoreRepositoryProvider = Provider<FirestoreRepository>((ref) {
