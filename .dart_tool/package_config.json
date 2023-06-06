@@ -104,6 +104,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "faker",
+      "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/faker-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "feedback_response",
       "rootUri": "file:///C:/Users/Mark%20Angelo/AppData/Local/Pub/Cache/hosted/pub.dev/feedback_response-0.0.6",
       "packageUri": "lib/",
@@ -404,7 +410,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-06-02T14:28:07.415711Z",
+  "generated": "2023-06-06T15:03:02.101451Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }
