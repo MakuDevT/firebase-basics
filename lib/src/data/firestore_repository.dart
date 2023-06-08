@@ -11,6 +11,7 @@ class FirestoreRepository {
       (_firestore.collection('users/$uid/jobs').add({
         'title': title,
         'company': company,
+        'createdAt': FieldValue.serverTimestamp()
       }));
   Future<void> updateJob(
           String uid, String jobId, String title, String company) =>
@@ -24,9 +25,12 @@ class FirestoreRepository {
   Query<Job> jobsQuery(String uid) {
     //converter let us plug in our data serialization logic
     //so we don't have to deal with key value pairs in the rest of the codebase
-    return _firestore.collection('users/$uid/jobs').withConverter(
-        fromFirestore: (snapshot, _) => Job.fromMap(snapshot.data()!),
-        toFirestore: (job, _) => job.toMap());
+    return _firestore
+        .collection('users/$uid/jobs')
+        .withConverter(
+            fromFirestore: (snapshot, _) => Job.fromMap(snapshot.data()!),
+            toFirestore: (job, _) => job.toMap())
+        .orderBy('createdAt', descending: true);
   }
 }
 
